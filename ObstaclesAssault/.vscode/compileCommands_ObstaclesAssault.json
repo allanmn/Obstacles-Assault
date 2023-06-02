@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\Source\\ObstaclesAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\.vscode\\compileCommands_ObstaclesAssault\\ObstaclesAssault.255.rsp"
+		],
+		"directory": "E:\\UE\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\Source\\ObstaclesAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\.vscode\\compileCommands_ObstaclesAssault\\ObstaclesAssault.255.rsp"
+		],
+		"directory": "E:\\UE\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\Source\\ObstaclesAssault\\ObstaclesAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\.vscode\\compileCommands_ObstaclesAssault\\ObstaclesAssault.255.rsp"
+		],
+		"directory": "E:\\UE\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\Source\\ObstaclesAssault\\ObstaclesAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\.vscode\\compileCommands_ObstaclesAssault\\ObstaclesAssault.255.rsp"
+		],
+		"directory": "E:\\UE\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\Source\\ObstaclesAssault\\ObstaclesAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\allan\\OneDrive\\Documents\\GitHub\\Obstacles-Assault\\ObstaclesAssault\\.vscode\\compileCommands_ObstaclesAssault\\ObstaclesAssault.255.rsp"
+		],
+		"directory": "E:\\UE\\UE_5.2\\Engine\\Source"
+	}
+]
